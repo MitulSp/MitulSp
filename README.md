@@ -4,7 +4,6 @@
 - 📫 How to reach me ...
 
 Email: mitul.1315@gmail.com
-Mobile: (+91) 9904976798
 
 <!---
 MitulSp/MitulSp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
